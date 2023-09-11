@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My Personal portfiolo**
+- 🔭 I’m currently working on **sendPay**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **web  & mobile development**
 
 - 📫 How to reach me **kefoueg@gmail.com**
 
