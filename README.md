@@ -4,21 +4,21 @@
 <h3 align="center">Software Engineer (Full Stack)</h3>
 
 <p align="center">
-I’m a <strong>Full Stack Software Engineer</strong> with 2.5+ years of experience building scalable,
-production-ready web applications.  
-I work across frontend and backend systems, focusing on performance, clean architecture,
-and real-world problem solving.
+I’m a results-driven <strong>Full Stack Software Engineer</strong> with 3.5+ years of experience building scalable, production-ready web applications.
+I work across frontend, backend, and AI integrations to deliver efficient, maintainable, and impactful digital solutions.
 </p>
+
 
 ---
 
 ### 🚀 What I Do
-- Build modern, responsive user interfaces with **React.js** and **Next.js**
-- Design and develop **RESTful APIs** using **Node.js**, **Express**, and **Laravel**
-- Work with relational databases (**PostgreSQL**, **MySQL**)
-- Integrate external services and **AI-powered features**
+- Build scalable and responsive frontend applications using **React.js** and **Next.js**
+- Design and develop robust **RESTful APIs** with **Node.js**, **Express**, and **Laravel**
+- Develop backend services and automation tools using **Python**
+- Integrate **AI-powered features** (LLMs, speech-to-text, content generation) into web platforms
+- Work with relational databases (**PostgreSQL**, **MySQL**) for reliable data modeling
 - Deploy and maintain applications on **VPS servers**
-- Collaborate effectively in **remote and agile teams**
+- Collaborate effectively in **remote, agile teams**
 
 ---
 
@@ -31,6 +31,13 @@ and real-world problem solving.
 **Backend**
 - Node.js, Express.js
 - Laravel (PHP)
+- Python (backend services, automation, AI integration)
+
+**AI & Automation**
+- AI-powered content generation
+- LLM integration (Claude / similar models)
+- Speech-to-text processing (Assembly AI)
+- API-based AI workflows
 
 **Databases**
 - PostgreSQL, MySQL
