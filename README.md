@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <p>
-I’m a results-driven <strong>Full Stack Software Engineer</strong> with 3.5+ years of experience building scalable, production-ready web applications.
+I’m a results-driven <strong>Full Stack Software Engineer</strong> with experience in building scalable, production-ready web applications.
 I work across frontend, backend, and AI integrations to deliver efficient, maintainable, and impactful digital solutions.
 </p>
 
